@@ -5,7 +5,7 @@ Welcome to **Quotes-App**! This is a responsive web application built with React
 ---
 
 ## 🔗Live Demo
-Check out the live version of **Quotes-App** here: [Quotes-App](https://deft-lebkuchen-ac2c1a.netlify.app/)
+Check out the live version of **Quotes-App** here: [Quotes-App](https://quote49.netlify.app/)
 
 ## ✨ Features
 
